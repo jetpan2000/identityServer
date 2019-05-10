@@ -1,0 +1,9 @@
+E:\Projects\Octacom.Odiss.Core\Octacom.Odiss.Core.Contracts.Settings\obj\Debug\Octacom.Odiss.Core.Contracts.Settings.csproj.CoreCompileInputs.cache
+E:\Projects\Octacom.Odiss.Core\Octacom.Odiss.Core.Contracts.Settings\bin\Debug\Octacom.Odiss.Core.Contracts.Settings.dll
+E:\Projects\Octacom.Odiss.Core\Octacom.Odiss.Core.Contracts.Settings\bin\Debug\Octacom.Odiss.Core.Contracts.Settings.pdb
+E:\Projects\Octacom.Odiss.Core\Octacom.Odiss.Core.Contracts.Settings\bin\Debug\Octacom.Odiss.Core.Contracts.Validation.dll
+E:\Projects\Octacom.Odiss.Core\Octacom.Odiss.Core.Contracts.Settings\bin\Debug\Octacom.Odiss.Core.Contracts.Validation.pdb
+E:\Projects\Octacom.Odiss.Core\Octacom.Odiss.Core.Contracts.Settings\obj\Debug\Octacom.Odiss.Core.Contracts.Settings.csprojAssemblyReference.cache
+E:\Projects\Octacom.Odiss.Core\Octacom.Odiss.Core.Contracts.Settings\obj\Debug\Octacom.Odiss.Core.Contracts.Settings.csproj.CopyComplete
+E:\Projects\Octacom.Odiss.Core\Octacom.Odiss.Core.Contracts.Settings\obj\Debug\Octacom.Odiss.Core.Contracts.Settings.dll
+E:\Projects\Octacom.Odiss.Core\Octacom.Odiss.Core.Contracts.Settings\obj\Debug\Octacom.Odiss.Core.Contracts.Settings.pdb

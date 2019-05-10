@@ -1,0 +1,6 @@
+E:\Projects\Octacom.Odiss.Core\Octacom.Odiss.Core.Entities\bin\Debug\Octacom.Odiss.Core.Entities.dll.config
+E:\Projects\Octacom.Odiss.Core\Octacom.Odiss.Core.Entities\bin\Debug\Octacom.Odiss.Core.Entities.dll
+E:\Projects\Octacom.Odiss.Core\Octacom.Odiss.Core.Entities\bin\Debug\Octacom.Odiss.Core.Entities.pdb
+E:\Projects\Octacom.Odiss.Core\Octacom.Odiss.Core.Entities\obj\Debug\Octacom.Odiss.Core.Entities.csproj.CoreCompileInputs.cache
+E:\Projects\Octacom.Odiss.Core\Octacom.Odiss.Core.Entities\obj\Debug\Octacom.Odiss.Core.Entities.dll
+E:\Projects\Octacom.Odiss.Core\Octacom.Odiss.Core.Entities\obj\Debug\Octacom.Odiss.Core.Entities.pdb

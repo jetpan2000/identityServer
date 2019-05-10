@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" ?>
+<package >
+  <metadata>
+    <id>Octacom.Odiss.Core.Identity.Dapper</id>
+    <version>1.6.0</version>
+    <title>Odiss Core Identity Dapper</title>
+    <authors>Octacom</authors>
+    <owners>Octacom</owners>
+    <licenseUrl>http://www.octacom.ca</licenseUrl>
+    <projectUrl>http://www.octacom.ca</projectUrl>
+    <iconUrl>https://banner2.kisspng.com/20171202/4a0/database-free-download-png-5a22aad4e16b56.2847272415122213969233.jpg</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Odiss Identity Implementations using raw SQL statements and Dapper</description>
+    <releaseNotes>Modified OdissUserSessionStore for the updated interface</releaseNotes>
+    <copyright>Copyright Octacom 2019</copyright>
+    <tags></tags>
+    <dependencies>
+      <dependency id="Microsoft.AspNet.Identity.Core" version="2.2.2" />
+      <dependency id="Dapper" version="1.60.1" />
+      <dependency id="Octacom.DapperRepository" version="1.1.3" />
+      <dependency id="Octacom.Odiss.Core.Identity" version="1.6.0" />
+    </dependencies>
+  </metadata>
+</package>

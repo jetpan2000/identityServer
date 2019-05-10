@@ -1,0 +1,6 @@
+E:\Projects\Octacom.Odiss.Core\Octacom.Odiss.Core.Contracts.Infrastructure\bin\Debug\Octacom.Odiss.Core.Contracts.Infrastructure.dll
+E:\Projects\Octacom.Odiss.Core\Octacom.Odiss.Core.Contracts.Infrastructure\bin\Debug\Octacom.Odiss.Core.Contracts.Infrastructure.pdb
+E:\Projects\Octacom.Odiss.Core\Octacom.Odiss.Core.Contracts.Infrastructure\obj\Debug\Octacom.Odiss.Core.Contracts.Infrastructure.csprojAssemblyReference.cache
+E:\Projects\Octacom.Odiss.Core\Octacom.Odiss.Core.Contracts.Infrastructure\obj\Debug\Octacom.Odiss.Core.Contracts.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Projects\Octacom.Odiss.Core\Octacom.Odiss.Core.Contracts.Infrastructure\obj\Debug\Octacom.Odiss.Core.Contracts.Infrastructure.dll
+E:\Projects\Octacom.Odiss.Core\Octacom.Odiss.Core.Contracts.Infrastructure\obj\Debug\Octacom.Odiss.Core.Contracts.Infrastructure.pdb

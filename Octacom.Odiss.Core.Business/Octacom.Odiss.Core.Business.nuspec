@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" ?>
+<package >
+  <metadata>
+    <id>Octacom.Odiss.Core.Business</id>
+    <version>0.1.25</version>
+    <title>Odiss Business Logic</title>
+    <authors>Octacom</authors>
+    <owners>Octacom</owners>
+    <licenseUrl>http://www.octacom.ca</licenseUrl>
+    <projectUrl>http://www.octacom.ca</projectUrl>
+    <iconUrl>https://banner2.kisspng.com/20171202/4a0/database-free-download-png-5a22aad4e16b56.2847272415122213969233.jpg</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Concrete default implementations for Odiss Business Logic</description>
+    <releaseNotes>Upgrade to dependencies</releaseNotes>
+    <copyright>Copyright Octacom 2018</copyright>
+    <tags></tags>
+    <dependencies>
+      <dependency id="Octacom.Odiss.Core.Common" version="0.0.6" />
+      <dependency id="Octacom.Odiss.Core.Contracts" version="0.1.24" />
+      <dependency id="Octacom.Odiss.Core.Contracts.Infrastructure" version="1.1.0" />
+      <dependency id="Octacom.Odiss.Core.Contracts.Settings" version="1.2.0" />
+      <dependency id="Octacom.Odiss.Core.Contracts.DataLayer.Repository.Document" version="1.0.0" />
+      <dependency id="Octacom.Odiss.Core.DataLayer" version="0.1.17" />
+      <dependency id="Octacom.Odiss.Core.Entities" version="0.1.17" />
+      <dependency id="Newtonsoft.Json" version="11.0.2" />
+    </dependencies>
+  </metadata>
+</package>

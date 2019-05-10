@@ -1,0 +1,5 @@
+E:\Projects\Octacom.Odiss.Core\Octacom.Odiss.Core.Contracts.DataLayer.Search\bin\Debug\Octacom.Odiss.Core.Contracts.DataLayer.Search.dll
+E:\Projects\Octacom.Odiss.Core\Octacom.Odiss.Core.Contracts.DataLayer.Search\bin\Debug\Octacom.Odiss.Core.Contracts.DataLayer.Search.pdb
+E:\Projects\Octacom.Odiss.Core\Octacom.Odiss.Core.Contracts.DataLayer.Search\obj\Debug\Octacom.Odiss.Core.Contracts.DataLayer.Search.csproj.CoreCompileInputs.cache
+E:\Projects\Octacom.Odiss.Core\Octacom.Odiss.Core.Contracts.DataLayer.Search\obj\Debug\Octacom.Odiss.Core.Contracts.DataLayer.Search.dll
+E:\Projects\Octacom.Odiss.Core\Octacom.Odiss.Core.Contracts.DataLayer.Search\obj\Debug\Octacom.Odiss.Core.Contracts.DataLayer.Search.pdb

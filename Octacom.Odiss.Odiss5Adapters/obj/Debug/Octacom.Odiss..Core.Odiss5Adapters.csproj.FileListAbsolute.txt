@@ -1,0 +1,2 @@
+E:\Projects\Octacom.Odiss.Core\Octacom.Odiss.Odiss5Adapters\obj\Debug\Octacom.Odiss..Core.Odiss5Adapters.csprojAssemblyReference.cache
+E:\Projects\Octacom.Odiss.Core\Octacom.Odiss.Odiss5Adapters\obj\Debug\Octacom.Odiss..Core.Odiss5Adapters.csproj.CoreCompileInputs.cache

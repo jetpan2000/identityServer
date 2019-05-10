@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" ?>
+<package >
+  <metadata>
+    <id>Octacom.Odiss.Core.Odiss5Adapters</id>
+    <version>2.0.0</version>
+    <title>Odiss 5 Adapters</title>
+    <authors>Octacom</authors>
+    <owners>Octacom</owners>
+    <licenseUrl>http://www.octacom.ca</licenseUrl>
+    <projectUrl>http://www.octacom.ca</projectUrl>
+    <iconUrl>https://banner2.kisspng.com/20171202/4a0/database-free-download-png-5a22aad4e16b56.2847272415122213969233.jpg</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The purpose of this library is to have means of using Odiss 5 with the next generation features which haven't been released in a new version of Odiss yet. The input and the output is converted so that it functions with what we currently have.</description>
+    <releaseNotes>Added support for SearchAutoComplete and upgraded to the new Octacom.Odiss.Core.Contracts.DataLayer.Search</releaseNotes>
+    <copyright>Copyright Octacom 2019</copyright>
+    <tags></tags>
+    <dependencies>
+      <dependency id="Octacom.Odiss.Core.Contracts.DataLayer.Search" version="1.0.0" />
+    </dependencies>
+  </metadata>
+</package>

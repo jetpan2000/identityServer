@@ -1,0 +1,6 @@
+E:\Projects\Octacom.Odiss.Core\Octacom.Odiss.Core.Contracts.Validation\obj\Debug\Octacom.Odiss.Core.Contracts.Validation.csprojAssemblyReference.cache
+E:\Projects\Octacom.Odiss.Core\Octacom.Odiss.Core.Contracts.Validation\obj\Debug\Octacom.Odiss.Core.Contracts.Validation.csproj.CoreCompileInputs.cache
+E:\Projects\Octacom.Odiss.Core\Octacom.Odiss.Core.Contracts.Validation\bin\Debug\Octacom.Odiss.Core.Contracts.Validation.dll
+E:\Projects\Octacom.Odiss.Core\Octacom.Odiss.Core.Contracts.Validation\bin\Debug\Octacom.Odiss.Core.Contracts.Validation.pdb
+E:\Projects\Octacom.Odiss.Core\Octacom.Odiss.Core.Contracts.Validation\obj\Debug\Octacom.Odiss.Core.Contracts.Validation.dll
+E:\Projects\Octacom.Odiss.Core\Octacom.Odiss.Core.Contracts.Validation\obj\Debug\Octacom.Odiss.Core.Contracts.Validation.pdb

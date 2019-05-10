@@ -1,0 +1,2 @@
+E:\Projects\Octacom.Odiss.Core\Octacom.Odiss.Core.Identity.EF\obj\Debug\Octacom.Odiss.Core.Identity.EF.csprojAssemblyReference.cache
+E:\Projects\Octacom.Odiss.Core\Octacom.Odiss.Core.Identity.EF\obj\Debug\Octacom.Odiss.Core.Identity.EF.csproj.CoreCompileInputs.cache

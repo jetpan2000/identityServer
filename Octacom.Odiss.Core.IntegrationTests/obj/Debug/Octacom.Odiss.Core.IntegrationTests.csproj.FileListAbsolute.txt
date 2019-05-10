@@ -1,0 +1,2 @@
+E:\Projects\Octacom.Odiss.Core\Octacom.Odiss.Core.IntegrationTests\obj\Debug\Octacom.Odiss.Core.IntegrationTests.csprojAssemblyReference.cache
+E:\Projects\Octacom.Odiss.Core\Octacom.Odiss.Core.IntegrationTests\obj\Debug\Octacom.Odiss.Core.IntegrationTests.csproj.CoreCompileInputs.cache

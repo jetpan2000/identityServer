@@ -1,0 +1,262 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Octacom.Odiss.Core.Entities", "Octacom.Odiss.Core.Entities\Octacom.Odiss.Core.Entities.csproj", "{08DF4AA3-77C4-4C07-9074-7A4253379F77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Octacom.Odiss.Core.Contracts", "Octacom.Odiss.Core.Contracts\Octacom.Odiss.Core.Contracts.csproj", "{C8D69A9A-A2E3-460B-8949-8608F3F3F3E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Octacom.Odiss.Core.DataLayer", "Octacom.Odiss.Core.DataLayer\Octacom.Odiss.Core.DataLayer.csproj", "{1EEDC0D8-B1C2-45EF-BA95-BFD863471CFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Octacom.Odiss.Core.Business", "Octacom.Odiss.Core.Business\Octacom.Odiss.Core.Business.csproj", "{5ECDFF82-FEFF-487B-92BC-9E239C37EA08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Octacom.Odiss.Core.IntegrationTests", "Octacom.Odiss.Core.IntegrationTests\Octacom.Odiss.Core.IntegrationTests.csproj", "{53275176-E603-48D6-A117-3F2E740368A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Octacom.Odiss.Core.Common", "Octacom.Odiss.Core.Common\Octacom.Odiss.Core.Common.csproj", "{634FBBF8-87AD-4B94-AAF1-4085660D13B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Octacom.Odiss.Core.Odiss5Adapters", "Octacom.Odiss.Odiss5Adapters\Octacom.Odiss.Core.Odiss5Adapters.csproj", "{B2192887-023C-4735-8FBD-A254369D1A7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Octacom.Odiss.Core.Identity", "Octacom.Odiss.Core.Identity\Octacom.Odiss.Core.Identity.csproj", "{52889186-DF8D-42DB-9BE7-F3FF4000AE61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Octacom.Odiss.Core.Identity.Bootstrap.Odiss5", "Octacom.Odiss.Core.Identity.Bootstrap.Odiss5\Octacom.Odiss.Core.Identity.Bootstrap.Odiss5.csproj", "{A6D6C67D-4263-4371-A09F-B658E127A6C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Octacom.Odiss.Core.Identity.Dapper", "Octacom.Odiss.Core.Identity.Dapper\Octacom.Odiss.Core.Identity.Dapper.csproj", "{8150EB7B-18EF-438B-9A54-C61BDAC887AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Octacom.Odiss.Core.Contracts.Infrastructure", "Octacom.Odiss.Core.Contracts.Infrastructure\Octacom.Odiss.Core.Contracts.Infrastructure.csproj", "{9FF14D89-E8DB-404D-814D-0E5B2C6C55F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Octacom.Odiss.Core.Infrastructure.Odiss5", "Octacom.Odiss.Core.Infrastructure.Odiss5\Octacom.Odiss.Core.Infrastructure.Odiss5.csproj", "{ACC91D36-06D4-40E4-B7B5-16E5233B96E2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataLayer", "DataLayer", "{24F86AA3-0B28-48A1-9547-F8778D75831C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Identity", "Identity", "{1C445BFF-5E00-4368-8451-07174116F357}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{7B26D609-3E60-4C0C-AAB8-0446EFF2BE63}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{34F19226-039D-40A1-9BCB-A0AA11B9B834}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Adapters", "Adapters", "{D663711C-5AC0-4BBD-9523-651E2A699EDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Octacom.Odiss.Core.Contracts.DataLayer.Search", "Octacom.Odiss.Core.Contracts.DataLayer.Search\Octacom.Odiss.Core.Contracts.DataLayer.Search.csproj", "{4F661D10-1EF0-4811-9954-F9BDFAA3CD5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Octacom.Odiss.Core.DataLayer.Search.EF", "Octacom.Odiss.Core.DataLayer.Search.EF\Octacom.Odiss.Core.DataLayer.Search.EF.csproj", "{0CCD9AF3-0556-48C9-914A-48689EE088AA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Settings", "Settings", "{ECDFE373-4734-4811-8E83-A2307A0B11A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Octacom.Odiss.Core.Contracts.Settings", "Octacom.Odiss.Core.Contracts.Settings\Octacom.Odiss.Core.Contracts.Settings.csproj", "{EBDCF3AC-169F-466D-A235-4ADF2FB1F0B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Octacom.Odiss.Core.Settings", "Octacom.Odiss.Core.Settings\Octacom.Odiss.Core.Settings.csproj", "{C863D881-4FAD-4865-8CDD-B3C7196CD98D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Search", "Search", "{CAD57C03-2085-45C0-955D-38095EA4BB79}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Document", "Document", "{8AB3161C-DFF8-44F9-B826-134086ED66F8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Repository", "Repository", "{AF386762-DDD8-46F5-B5BF-A3C30227DE09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Octacom.Odiss.Core.Contracts.DataLayer.Repository.Document", "Octacom.Odiss.Core.Contracts.DataLayer.Repository.Document\Octacom.Odiss.Core.Contracts.DataLayer.Repository.Document.csproj", "{17B41716-33C0-4B8E-828B-BC1D4F273741}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Octacom.Odiss.Core.DataLayer.Repository.Document.EF", "Octacom.Odiss.Core.DataLayer.Repository.Document.EF\Octacom.Odiss.Core.DataLayer.Repository.Document.EF.csproj", "{F37E97C6-7758-4870-B2A3-D245BEDCAD2A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Rules", "Rules", "{0EC13C69-4153-40C8-926F-C5A421DF57AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Octacom.Odiss.Core.Contracts.Validation", "Octacom.Odiss.Core.Contracts.Validation\Octacom.Odiss.Core.Contracts.Validation.csproj", "{ADF2512E-761A-45DD-AFE1-167A65C71F85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Octacom.Odiss.Core.Validation", "Octacom.Odiss.Core.Validation\Octacom.Odiss.Core.Validation.csproj", "{B5B62B53-1149-48E4-AA3F-2FEB2FE9F2F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08DF4AA3-77C4-4C07-9074-7A4253379F77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08DF4AA3-77C4-4C07-9074-7A4253379F77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08DF4AA3-77C4-4C07-9074-7A4253379F77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08DF4AA3-77C4-4C07-9074-7A4253379F77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8D69A9A-A2E3-460B-8949-8608F3F3F3E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8D69A9A-A2E3-460B-8949-8608F3F3F3E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8D69A9A-A2E3-460B-8949-8608F3F3F3E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8D69A9A-A2E3-460B-8949-8608F3F3F3E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EEDC0D8-B1C2-45EF-BA95-BFD863471CFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EEDC0D8-B1C2-45EF-BA95-BFD863471CFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EEDC0D8-B1C2-45EF-BA95-BFD863471CFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EEDC0D8-B1C2-45EF-BA95-BFD863471CFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ECDFF82-FEFF-487B-92BC-9E239C37EA08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ECDFF82-FEFF-487B-92BC-9E239C37EA08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ECDFF82-FEFF-487B-92BC-9E239C37EA08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ECDFF82-FEFF-487B-92BC-9E239C37EA08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53275176-E603-48D6-A117-3F2E740368A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53275176-E603-48D6-A117-3F2E740368A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53275176-E603-48D6-A117-3F2E740368A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53275176-E603-48D6-A117-3F2E740368A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{634FBBF8-87AD-4B94-AAF1-4085660D13B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{634FBBF8-87AD-4B94-AAF1-4085660D13B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{634FBBF8-87AD-4B94-AAF1-4085660D13B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{634FBBF8-87AD-4B94-AAF1-4085660D13B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2192887-023C-4735-8FBD-A254369D1A7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2192887-023C-4735-8FBD-A254369D1A7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2192887-023C-4735-8FBD-A254369D1A7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2192887-023C-4735-8FBD-A254369D1A7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52889186-DF8D-42DB-9BE7-F3FF4000AE61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52889186-DF8D-42DB-9BE7-F3FF4000AE61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52889186-DF8D-42DB-9BE7-F3FF4000AE61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52889186-DF8D-42DB-9BE7-F3FF4000AE61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6D6C67D-4263-4371-A09F-B658E127A6C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6D6C67D-4263-4371-A09F-B658E127A6C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6D6C67D-4263-4371-A09F-B658E127A6C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6D6C67D-4263-4371-A09F-B658E127A6C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8150EB7B-18EF-438B-9A54-C61BDAC887AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8150EB7B-18EF-438B-9A54-C61BDAC887AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8150EB7B-18EF-438B-9A54-C61BDAC887AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8150EB7B-18EF-438B-9A54-C61BDAC887AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FF14D89-E8DB-404D-814D-0E5B2C6C55F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FF14D89-E8DB-404D-814D-0E5B2C6C55F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FF14D89-E8DB-404D-814D-0E5B2C6C55F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FF14D89-E8DB-404D-814D-0E5B2C6C55F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACC91D36-06D4-40E4-B7B5-16E5233B96E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACC91D36-06D4-40E4-B7B5-16E5233B96E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACC91D36-06D4-40E4-B7B5-16E5233B96E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACC91D36-06D4-40E4-B7B5-16E5233B96E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F661D10-1EF0-4811-9954-F9BDFAA3CD5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F661D10-1EF0-4811-9954-F9BDFAA3CD5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F661D10-1EF0-4811-9954-F9BDFAA3CD5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F661D10-1EF0-4811-9954-F9BDFAA3CD5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CCD9AF3-0556-48C9-914A-48689EE088AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CCD9AF3-0556-48C9-914A-48689EE088AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CCD9AF3-0556-48C9-914A-48689EE088AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CCD9AF3-0556-48C9-914A-48689EE088AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBDCF3AC-169F-466D-A235-4ADF2FB1F0B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBDCF3AC-169F-466D-A235-4ADF2FB1F0B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBDCF3AC-169F-466D-A235-4ADF2FB1F0B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBDCF3AC-169F-466D-A235-4ADF2FB1F0B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C863D881-4FAD-4865-8CDD-B3C7196CD98D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C863D881-4FAD-4865-8CDD-B3C7196CD98D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C863D881-4FAD-4865-8CDD-B3C7196CD98D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C863D881-4FAD-4865-8CDD-B3C7196CD98D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17B41716-33C0-4B8E-828B-BC1D4F273741}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17B41716-33C0-4B8E-828B-BC1D4F273741}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17B41716-33C0-4B8E-828B-BC1D4F273741}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17B41716-33C0-4B8E-828B-BC1D4F273741}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F37E97C6-7758-4870-B2A3-D245BEDCAD2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F37E97C6-7758-4870-B2A3-D245BEDCAD2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F37E97C6-7758-4870-B2A3-D245BEDCAD2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F37E97C6-7758-4870-B2A3-D245BEDCAD2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADF2512E-761A-45DD-AFE1-167A65C71F85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADF2512E-761A-45DD-AFE1-167A65C71F85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADF2512E-761A-45DD-AFE1-167A65C71F85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADF2512E-761A-45DD-AFE1-167A65C71F85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5B62B53-1149-48E4-AA3F-2FEB2FE9F2F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5B62B53-1149-48E4-AA3F-2FEB2FE9F2F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5B62B53-1149-48E4-AA3F-2FEB2FE9F2F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5B62B53-1149-48E4-AA3F-2FEB2FE9F2F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1EEDC0D8-B1C2-45EF-BA95-BFD863471CFC} = {24F86AA3-0B28-48A1-9547-F8778D75831C}
+		{53275176-E603-48D6-A117-3F2E740368A2} = {7B26D609-3E60-4C0C-AAB8-0446EFF2BE63}
+		{B2192887-023C-4735-8FBD-A254369D1A7C} = {D663711C-5AC0-4BBD-9523-651E2A699EDF}
+		{52889186-DF8D-42DB-9BE7-F3FF4000AE61} = {1C445BFF-5E00-4368-8451-07174116F357}
+		{A6D6C67D-4263-4371-A09F-B658E127A6C0} = {1C445BFF-5E00-4368-8451-07174116F357}
+		{8150EB7B-18EF-438B-9A54-C61BDAC887AA} = {1C445BFF-5E00-4368-8451-07174116F357}
+		{9FF14D89-E8DB-404D-814D-0E5B2C6C55F5} = {34F19226-039D-40A1-9BCB-A0AA11B9B834}
+		{ACC91D36-06D4-40E4-B7B5-16E5233B96E2} = {34F19226-039D-40A1-9BCB-A0AA11B9B834}
+		{4F661D10-1EF0-4811-9954-F9BDFAA3CD5A} = {CAD57C03-2085-45C0-955D-38095EA4BB79}
+		{0CCD9AF3-0556-48C9-914A-48689EE088AA} = {CAD57C03-2085-45C0-955D-38095EA4BB79}
+		{EBDCF3AC-169F-466D-A235-4ADF2FB1F0B2} = {ECDFE373-4734-4811-8E83-A2307A0B11A4}
+		{C863D881-4FAD-4865-8CDD-B3C7196CD98D} = {ECDFE373-4734-4811-8E83-A2307A0B11A4}
+		{CAD57C03-2085-45C0-955D-38095EA4BB79} = {24F86AA3-0B28-48A1-9547-F8778D75831C}
+		{8AB3161C-DFF8-44F9-B826-134086ED66F8} = {AF386762-DDD8-46F5-B5BF-A3C30227DE09}
+		{AF386762-DDD8-46F5-B5BF-A3C30227DE09} = {24F86AA3-0B28-48A1-9547-F8778D75831C}
+		{17B41716-33C0-4B8E-828B-BC1D4F273741} = {8AB3161C-DFF8-44F9-B826-134086ED66F8}
+		{F37E97C6-7758-4870-B2A3-D245BEDCAD2A} = {8AB3161C-DFF8-44F9-B826-134086ED66F8}
+		{ADF2512E-761A-45DD-AFE1-167A65C71F85} = {0EC13C69-4153-40C8-926F-C5A421DF57AA}
+		{B5B62B53-1149-48E4-AA3F-2FEB2FE9F2F8} = {0EC13C69-4153-40C8-926F-C5A421DF57AA}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D77CBF1-F043-4FAC-AEC3-ABF2634767AC}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 21
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://dev-tfs-2012:8080/tfs/octacom
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Octacom.Odiss.Core.Entities\\Octacom.Odiss.Core.Entities.csproj
+		SccProjectName1 = Octacom.Odiss.Core.Entities
+		SccLocalPath1 = Octacom.Odiss.Core.Entities
+		SccProjectUniqueName2 = Octacom.Odiss.Core.Contracts\\Octacom.Odiss.Core.Contracts.csproj
+		SccProjectName2 = Octacom.Odiss.Core.Contracts
+		SccLocalPath2 = Octacom.Odiss.Core.Contracts
+		SccProjectUniqueName3 = Octacom.Odiss.Core.DataLayer\\Octacom.Odiss.Core.DataLayer.csproj
+		SccProjectTopLevelParentUniqueName3 = Octacom.Odiss.Core.sln
+		SccProjectName3 = Octacom.Odiss.Core.DataLayer
+		SccLocalPath3 = Octacom.Odiss.Core.DataLayer
+		SccProjectUniqueName4 = Octacom.Odiss.Core.Business\\Octacom.Odiss.Core.Business.csproj
+		SccProjectName4 = Octacom.Odiss.Core.Business
+		SccLocalPath4 = Octacom.Odiss.Core.Business
+		SccProjectUniqueName5 = Octacom.Odiss.Core.IntegrationTests\\Octacom.Odiss.Core.IntegrationTests.csproj
+		SccProjectTopLevelParentUniqueName5 = Octacom.Odiss.Core.sln
+		SccProjectName5 = Octacom.Odiss.Core.IntegrationTests
+		SccLocalPath5 = Octacom.Odiss.Core.IntegrationTests
+		SccProjectUniqueName6 = Octacom.Odiss.Core.Common\\Octacom.Odiss.Core.Common.csproj
+		SccProjectName6 = Octacom.Odiss.Core.Common
+		SccLocalPath6 = Octacom.Odiss.Core.Common
+		SccProjectUniqueName7 = Octacom.Odiss.Core.Identity\\Octacom.Odiss.Core.Identity.csproj
+		SccProjectTopLevelParentUniqueName7 = Octacom.Odiss.Core.sln
+		SccProjectName7 = Octacom.Odiss.Core.Identity
+		SccLocalPath7 = Octacom.Odiss.Core.Identity
+		SccProjectUniqueName8 = Octacom.Odiss.Core.Identity.Bootstrap.Odiss5\\Octacom.Odiss.Core.Identity.Bootstrap.Odiss5.csproj
+		SccProjectTopLevelParentUniqueName8 = Octacom.Odiss.Core.sln
+		SccProjectName8 = Octacom.Odiss.Core.Identity.Bootstrap.Odiss5
+		SccLocalPath8 = Octacom.Odiss.Core.Identity.Bootstrap.Odiss5
+		SccProjectUniqueName9 = Octacom.Odiss.Core.Identity.Dapper\\Octacom.Odiss.Core.Identity.Dapper.csproj
+		SccProjectTopLevelParentUniqueName9 = Octacom.Odiss.Core.sln
+		SccProjectName9 = Octacom.Odiss.Core.Identity.Dapper
+		SccLocalPath9 = Octacom.Odiss.Core.Identity.Dapper
+		SccProjectUniqueName10 = Octacom.Odiss.Core.Contracts.Infrastructure\\Octacom.Odiss.Core.Contracts.Infrastructure.csproj
+		SccProjectTopLevelParentUniqueName10 = Octacom.Odiss.Core.sln
+		SccProjectName10 = Octacom.Odiss.Core.Contracts.Infrastructure
+		SccLocalPath10 = Octacom.Odiss.Core.Contracts.Infrastructure
+		SccProjectUniqueName11 = Octacom.Odiss.Core.Infrastructure.Odiss5\\Octacom.Odiss.Core.Infrastructure.Odiss5.csproj
+		SccProjectTopLevelParentUniqueName11 = Octacom.Odiss.Core.sln
+		SccProjectName11 = Octacom.Odiss.Core.Infrastructure.Odiss5
+		SccLocalPath11 = Octacom.Odiss.Core.Infrastructure.Odiss5
+		SccProjectUniqueName12 = Octacom.Odiss.Core.Contracts.DataLayer.Search\\Octacom.Odiss.Core.Contracts.DataLayer.Search.csproj
+		SccProjectTopLevelParentUniqueName12 = Octacom.Odiss.Core.sln
+		SccProjectName12 = Octacom.Odiss.Core.Contracts.DataLayer.Search
+		SccLocalPath12 = Octacom.Odiss.Core.Contracts.DataLayer.Search
+		SccProjectUniqueName13 = Octacom.Odiss.Core.DataLayer.Search.EF\\Octacom.Odiss.Core.DataLayer.Search.EF.csproj
+		SccProjectTopLevelParentUniqueName13 = Octacom.Odiss.Core.sln
+		SccProjectName13 = Octacom.Odiss.Core.DataLayer.Search.EF
+		SccLocalPath13 = Octacom.Odiss.Core.DataLayer.Search.EF
+		SccProjectUniqueName14 = Octacom.Odiss.Core.Contracts.Settings\\Octacom.Odiss.Core.Contracts.Settings.csproj
+		SccProjectTopLevelParentUniqueName14 = Octacom.Odiss.Core.sln
+		SccProjectName14 = Octacom.Odiss.Core.Contracts.Settings
+		SccLocalPath14 = Octacom.Odiss.Core.Contracts.Settings
+		SccProjectUniqueName15 = Octacom.Odiss.Core.Settings\\Octacom.Odiss.Core.Settings.csproj
+		SccProjectTopLevelParentUniqueName15 = Octacom.Odiss.Core.sln
+		SccProjectName15 = Octacom.Odiss.Core.Settings
+		SccLocalPath15 = Octacom.Odiss.Core.Settings
+		SccProjectUniqueName16 = Octacom.Odiss.Core.Contracts.DataLayer.Repository.Document\\Octacom.Odiss.Core.Contracts.DataLayer.Repository.Document.csproj
+		SccProjectTopLevelParentUniqueName16 = Octacom.Odiss.Core.sln
+		SccProjectName16 = Octacom.Odiss.Core.Contracts.DataLayer.Repository.Document
+		SccLocalPath16 = Octacom.Odiss.Core.Contracts.DataLayer.Repository.Document
+		SccProjectUniqueName17 = Octacom.Odiss.Core.DataLayer.Repository.Document.EF\\Octacom.Odiss.Core.DataLayer.Repository.Document.EF.csproj
+		SccProjectTopLevelParentUniqueName17 = Octacom.Odiss.Core.sln
+		SccProjectName17 = Octacom.Odiss.Core.DataLayer.Repository.Document.EF
+		SccLocalPath17 = Octacom.Odiss.Core.DataLayer.Repository.Document.EF
+		SccProjectUniqueName18 = Octacom.Odiss.Odiss5Adapters\\Octacom.Odiss.Core.Odiss5Adapters.csproj
+		SccProjectTopLevelParentUniqueName18 = Octacom.Odiss.Core.sln
+		SccProjectName18 = Octacom.Odiss.Odiss5Adapters
+		SccLocalPath18 = Octacom.Odiss.Odiss5Adapters
+		SccProjectUniqueName19 = Octacom.Odiss.Core.Contracts.Validation\\Octacom.Odiss.Core.Contracts.Validation.csproj
+		SccProjectTopLevelParentUniqueName19 = Octacom.Odiss.Core.sln
+		SccProjectName19 = Octacom.Odiss.Core.Contracts.Validation
+		SccLocalPath19 = Octacom.Odiss.Core.Contracts.Validation
+		SccProjectUniqueName20 = Octacom.Odiss.Core.Validation\\Octacom.Odiss.Core.Validation.csproj
+		SccProjectTopLevelParentUniqueName20 = Octacom.Odiss.Core.sln
+		SccProjectName20 = Octacom.Odiss.Core.Validation
+		SccLocalPath20 = Octacom.Odiss.Core.Validation
+	EndGlobalSection
+EndGlobal

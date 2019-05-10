@@ -1,0 +1,5 @@
+E:\Projects\Octacom.Odiss.Core\Octacom.Odiss.Core.Contracts.DataLayer.Repository.Document\bin\Debug\Octacom.Odiss.Core.Contracts.DataLayer.Repository.Document.dll
+E:\Projects\Octacom.Odiss.Core\Octacom.Odiss.Core.Contracts.DataLayer.Repository.Document\bin\Debug\Octacom.Odiss.Core.Contracts.DataLayer.Repository.Document.pdb
+E:\Projects\Octacom.Odiss.Core\Octacom.Odiss.Core.Contracts.DataLayer.Repository.Document\obj\Debug\Octacom.Odiss.Core.Contracts.DataLayer.Repository.Document.csproj.CoreCompileInputs.cache
+E:\Projects\Octacom.Odiss.Core\Octacom.Odiss.Core.Contracts.DataLayer.Repository.Document\obj\Debug\Octacom.Odiss.Core.Contracts.DataLayer.Repository.Document.dll
+E:\Projects\Octacom.Odiss.Core\Octacom.Odiss.Core.Contracts.DataLayer.Repository.Document\obj\Debug\Octacom.Odiss.Core.Contracts.DataLayer.Repository.Document.pdb

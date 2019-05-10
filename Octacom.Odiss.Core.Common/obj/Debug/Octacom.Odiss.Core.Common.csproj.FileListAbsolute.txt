@@ -1,0 +1,9 @@
+E:\Projects\Octacom.Odiss.Core\Octacom.Odiss.Core.Common\bin\Debug\Octacom.Odiss.Core.Common.dll
+E:\Projects\Octacom.Odiss.Core\Octacom.Odiss.Core.Common\bin\Debug\Octacom.Odiss.Core.Common.pdb
+E:\Projects\Octacom.Odiss.Core\Octacom.Odiss.Core.Common\bin\Debug\Newtonsoft.Json.dll
+E:\Projects\Octacom.Odiss.Core\Octacom.Odiss.Core.Common\bin\Debug\Newtonsoft.Json.xml
+E:\Projects\Octacom.Odiss.Core\Octacom.Odiss.Core.Common\obj\Debug\Octacom.Odiss.Core.Common.csproj.CoreCompileInputs.cache
+E:\Projects\Octacom.Odiss.Core\Octacom.Odiss.Core.Common\obj\Debug\Octacom.Odiss.Core.Common.csproj.CopyComplete
+E:\Projects\Octacom.Odiss.Core\Octacom.Odiss.Core.Common\obj\Debug\Octacom.Odiss.Core.Common.dll
+E:\Projects\Octacom.Odiss.Core\Octacom.Odiss.Core.Common\obj\Debug\Octacom.Odiss.Core.Common.pdb
+E:\Projects\Octacom.Odiss.Core\Octacom.Odiss.Core.Common\obj\Debug\Octacom.Odiss.Core.Common.csprojAssemblyReference.cache
